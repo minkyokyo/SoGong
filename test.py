@@ -1,7 +1,7 @@
 class MyClass():
     def __init__(self):
         self.birthDay = "20230326"
-        self.age = 1
+        self.age = 10
         
     def saySomething(self,something="Hello World"):
         print(something)
