@@ -1,12 +1,8 @@
 class MyClass():
     def __init__(self):
         self.birthDay = "20230326"
-        self.age = 10
-        a = 10
-        b = 20
-        c = 30
-        d = 40
-        
+
+        self.age = 12        
     def saySomething(self,something="Hello World"):
         print(something)
     
