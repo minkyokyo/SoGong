@@ -7,6 +7,7 @@ class MyClass():
     
     def sayBirthday(self):
         print("Hello, my birthday is ",self.birthDay)
+        print("give me gift")
 
 def main():
     myclass=MyClass()
